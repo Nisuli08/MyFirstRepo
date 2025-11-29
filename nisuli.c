@@ -21,6 +21,7 @@ void main()
 	}
 	else{
 		printf("\n\nType:Composite number");
+		printf("Please enter a positive number");
 	}
 }else{
 	printf("Please enter a positive number");
